@@ -8,4 +8,4 @@ jobs:
       - checkout
       - run:
           name: Install dependencies
-          command: echo "hello world!"
+          command: echo "hello world!-github!"
